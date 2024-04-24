@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(45deg, crimson, blue);
+}
+.main{
+    background-color: pink;
+    width: 550px;
+    height: 420px;
+    margin: 60px auto;
+    background-color: white;
+    border-radius: 50px;
+}
+.text{
+    text-align: center;
+    padding: 25px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.parent{
+    display: flex;
+    flex-direction: column;
+    padding-top: px;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+}
+img{
+    height: 30px;
+    width: 30px;
+}
+input{
+    height: 40px;
+    width: 400px;
+    margin-left: 5px;
+    padding: 0px 10px;
+    font-size: 16px;
+}
+.input{
+    display: flex;
+}
+.submit{
+    display: flex;
+}
+
+p{
+    cursor: pointer;
+}
+span{
+    cursor: pointer;
+    color: blue;
+}
+.log{
+    padding: 20px;
+    margin-left: 5px;
+    cursor: pointer;    
+    background-image: linear-gradient(45deg, crimson, blue);
+    border-radius: 10px;
+    color: antiquewhite;
+    font-weight: bold;
+}
+.sign-up{
+    padding: 20px ;
+    cursor: pointer;
+    background-image: linear-gradient(45deg, crimson, blue);
+    border-radius: 10px;
+    color: antiquewhite;
+    font-weight: bold;
+}
+.gray{
+    padding: 20px;
+    margin-left: 5px;
+    cursor: pointer;    
+    background-color: gray;
+    border-radius: 10px;
+    color: antiquewhite;
+    font-weight: bold;
+}

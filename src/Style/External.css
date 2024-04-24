@@ -1,0 +1,14 @@
+.primary{
+    background-color: aqua;
+    color: blueviolet;
+}
+.secondary{
+    background-color: pink;
+    color: blueviolet;
+}
+.font-axel{
+    font-family: 'Times New Roman', Times, serif;
+}
+.heading{
+    text-align: center;
+}

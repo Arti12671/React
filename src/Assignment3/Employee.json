@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name":"Smith",
+        "designation":"Clerk",
+        "salary":20000
+    },
+    {
+        "id": 2,
+        "name":"Zayn",
+        "designation":"Manager",
+        "salary":50000
+    },
+    {
+        "id": 3,
+        "name":"Harry",
+        "designation":"Manager",
+        "salary":40000
+    },
+    {
+        "id": 4,
+        "name":"Liam",
+        "designation":"Clerk",
+        "salary":30000
+    },
+    {
+        "id": 5,
+        "name":"Louis",
+        "designation":"Analyst",
+        "salary":20000
+    },
+    {
+        "id": 6,
+        "name":"James",
+        "designation":"Analyst",
+        "salary":20000
+    },
+    {
+        "id": 7,
+        "name":"Nial",
+        "designation":"Analyst",
+        "salary":25000
+    },
+    {
+        "id": 8,
+        "name":"Tae",
+        "designation":"Manager",
+        "salary":70000
+    },
+    {
+        "id": 9,
+        "name":"Allen",
+        "designation":"Salesman",
+        "salary":20000
+    },
+    {
+        "id": 10,
+        "name":"Ward",
+        "designation":"Salesman",
+        "salary":30000
+    },
+    {
+        "id": 11,
+        "name":"Jones",
+        "designation":"Manager",
+        "salary":30000
+    },
+    {
+        "id": 12,
+        "name":"Martin",
+        "designation":"Salesman",
+        "salary":20000
+    },
+    {
+        "id": 13,
+        "name":"Blake",
+        "designation":"Manager",
+        "salary":40000
+    },
+    {
+        "id": 14,
+        "name":"Clark",
+        "designation":"Manager",
+        "salary":50000
+    },
+    {
+        "id": 15,
+        "name":"Scott",
+        "designation":"Analyst",
+        "salary":25000
+    },
+    {
+        "id": 16,
+        "name":"King",
+        "designation":"President",
+        "salary":100000
+    },
+    {
+        "id": 17,
+        "name":"Turner",
+        "designation":"Salesman",
+        "salary":24000
+    },
+    {
+        "id": 18,
+        "name":"Adams",
+        "designation":"Clerk",
+        "salary":20000
+    },
+    {
+        "id": 19,
+        "name":"Ford",
+        "designation":"Clerk",
+        "salary":20000
+    },
+    {
+        "id": 20,
+        "name":"Miller",
+        "designation":"Analyst",
+        "salary":27000
+    }
+]
